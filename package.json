@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "boolbase": "^1.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "css-what": "^2.1.2",
+    "fetch-nodejs": "^0.2.1",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "https-proxy-agent": "^2.2.1",
+    "iconv-lite": "^0.4.23",
+    "mysql": "^2.15.0",
+    "node-xlsx": "^0.12.1",
+    "nodejieba": "^2.2.6",
+    "nth-check": "^1.0.1",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "require": "^2.4.20",
+    "superagent": "^3.8.3",
+    "superagent-proxy": "^1.0.3",
+    "util": "^0.10.3"
+  }
+}
